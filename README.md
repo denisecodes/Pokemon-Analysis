@@ -5,4 +5,4 @@ This is a personal project I did to analyse the Pokemon dataset that I found on 
 <li>What Pokemon type is the strongest and the weakest?</li>
 </ul>
 
-You can find the data set [here](https://www.kaggle.com/datasets/rounakbanik/pokemon)
+You can find the dataset [here](https://www.kaggle.com/datasets/rounakbanik/pokemon)
