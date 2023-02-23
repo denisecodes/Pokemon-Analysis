@@ -54,9 +54,3 @@ ON info.pokedex_number = stats.pokedex_number
 GROUP BY type1
 ORDER BY combined_attacked_defense_total ASC
 LIMIT 1;
-
-
-
-
-
-
