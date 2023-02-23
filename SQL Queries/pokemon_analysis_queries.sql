@@ -2,6 +2,7 @@
 SELECT generation, COUNT(generation) 
 FROM pokemon_basic_info
 GROUP BY generation;
+
 -- Answer: Generation 1: 151, Generation 2: 100, Generation 3: 135, Generation 4: 107
 -- Generation 5: 156, Generation 6: 72, Generation 7: 80
 
